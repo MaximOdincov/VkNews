@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vk News</string>
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_favourite">Favourite</string>
+    <string name="nav_item_profile">Profile</string>
+    <string name="vk_rule">Чтобы пользоваться нашим приложением вам нужно авторизоваться через Vk</string>
+</resources>
