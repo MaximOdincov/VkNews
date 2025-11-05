@@ -23,7 +23,7 @@
 
 ## 📱 Скриншоты интерфейса
 <p align="center">
-  <img src="![Screenshot_2025-11-05-15-28-32-545_com example vkapijob-edit](https://github.com/user-attachments/assets/f1b5de16-90c7-4e4f-999d-7b0112f3617a)" width="300"/>
+  <img src="https://github.com/user-attachments/assets/f1b5de16-90c7-4e4f-999d-7b0112f3617a" width="300"/>
 </p>
 
 <p align="center">
