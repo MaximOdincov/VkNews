@@ -22,7 +22,11 @@
 ---
 
 ## 📱 Скриншоты интерфейса
+<p align="center">
+  <img src="![Screenshot_2025-11-05-15-28-32-545_com example vkapijob-edit](https://github.com/user-attachments/assets/f1b5de16-90c7-4e4f-999d-7b0112f3617a)" width="300"/>
+</p>
 
-![Screenshot_2025-11-05-15-28-32-545_com example vkapijob-edit](https://github.com/user-attachments/assets/f1b5de16-90c7-4e4f-999d-7b0112f3617a)
-<img width="644" height="1280" alt="image" src="https://github.com/user-attachments/assets/1bd49b8e-fb59-4e8f-9ccb-42aa3d7d222e" />
+<p align="center">
+  <img width="644" height="1280" alt="image" src="https://github.com/user-attachments/assets/1bd49b8e-fb59-4e8f-9ccb-42aa3d7d222e" />
+</p>
 ---
